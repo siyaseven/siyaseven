@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @siyaseven
-- 👀 I’m interested in python development 
-- 🌱 I’m currently learning API on Python Framework (fastapi)
+- 👀 I’m interested in python development, C/C++ and CUDA programming 
+- 🌱 I’m currently learning API on Python Framework (fastapi), GPU programming and game development.
 - 💞️ I’m looking to collaborate on full stack development projects.
 - 📫 How to reach me: email me at siyabonga@aims.ac.za
 
